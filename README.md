@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ![](https://komarev.com/ghpvc/?username=tagorenathv)
+
+  
 ![](https://raw.githubusercontent.com/tagorenathv/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/tagorenathv/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
