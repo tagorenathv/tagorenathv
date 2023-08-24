@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 - ![](https://komarev.com/ghpvc/?username=tagorenathv)
 
+![image](https://github.com/tagorenathv/tagorenathv/assets/39650010/906344ce-c491-4b34-b0e0-4158c8e7064d)
+
+
   
 ![](https://raw.githubusercontent.com/tagorenathv/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/tagorenathv/github-stats/master/generated/overview.svg#gh-light-mode-only)
